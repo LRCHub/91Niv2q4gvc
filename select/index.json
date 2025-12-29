@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "...Baby One More Time",
+  "base_artist": "Britney Spears",
+  "createdAt": "2025-12-29T11:14:56.404873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby One More Time",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/01_Baby_One_More_Time_Travis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/02_...Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby One More Time",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/03_Baby_One_More_Time_Travis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "Angy",
+      "has_synced": true,
+      "path": "select/04_...Baby_One_More_Time_Angy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "BritneySpearsVEVO",
+      "has_synced": true,
+      "path": "select/05_...Baby_One_More_Time_BritneySpearsVEVO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby One More Time",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/06_Baby_One_More_Time_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/07_...Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baby one more time",
+      "artist": "The Marias",
+      "has_synced": true,
+      "path": "select/08_Baby_one_more_time_The_Marias.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baby One More Time (Live)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/09_Baby_One_More_Time_(Live)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "...baby one more time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/10_...baby_one_more_time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/11_...Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "…baby one more time",
+      "artist": "The Marías",
+      "has_synced": true,
+      "path": "select/12_...baby_one_more_time_The_Marías.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "…Baby One More Time",
+      "artist": "Lorna Courtney",
+      "has_synced": true,
+      "path": "select/13_...Baby_One_More_Time_Lorna_Courtney.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "…Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/14_...Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "…Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/15_...Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "Crypto",
+      "has_synced": true,
+      "path": "select/16_...Baby_One_More_Time_Crypto.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/17_Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/18_...Baby_One_More_Time_Britney_Spears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_01_...Baby_One_More_Time_Britney_Spears.txt"
+    }
+  ]
+}
